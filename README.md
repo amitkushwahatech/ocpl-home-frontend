@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/120050605/234739387-5950dffa-6a8b-41db-b6d7-d947ada71061.png)
 
 ## npm instal  note work please use {  npm install --legacy-peer-deps  <hereanything_to_install_dependencies>   }
+- beacuse " react-tilt " use older version of react 
 ## Introduction
 The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
 ![image](https://user-images.githubusercontent.com/120050605/234739654-be1e5af7-0121-48fb-8a71-8b5c42c9c106.png)
